@@ -36,5 +36,24 @@ local UpdateContent={
 TotalInfo[Path]=UpdateContent
 
 
+local Path="ServerStorage.ModuleScript.SkillModule"
+local UpdateContent={
+	{
+		Type="function",
+		Content={
+			{
+				NeedRun=true,
+				Name="TestFun",
+				Fun=function ()
+					return 666
+				end,
+			}
+		}
+	},
+}
+
+TotalInfo[Path]=UpdateContent
+
+
 
 return VersionID,TotalInfo
