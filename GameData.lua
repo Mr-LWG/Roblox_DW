@@ -33,7 +33,7 @@ local UpdateContent={
 		Type="table",
 		Content={
 			
-			{"RedeemCode","629023", {ID="629023",Note="MOD福利码",Code="E5QTNIV",Enable=1,UseOnce=1,Rewards="100001,5000",Deadline="20260101",Release=0,}, }
+			{"RedeemCode","629023", {ID="629023",Note="MOD福利码",Code="E5QTNIV222",Enable=1,UseOnce=1,Rewards="100001,5000",Deadline="20260101",Release=0,}, }
 		}
 	},
 }
