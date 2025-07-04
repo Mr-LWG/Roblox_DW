@@ -315,4 +315,4 @@ local UpdateContent={
     },
 }
 
-return {Path=Path,Updatelog=Updatelog}
+return {Path=Path,UpdateContent=UpdateContent}
