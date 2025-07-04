@@ -42,4 +42,4 @@ TotalInfo[Path]=UpdateContent
 
 
 
-return VersionID,TotalInfo[Path]
+return VersionID,TotalInfo
